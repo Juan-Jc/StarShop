@@ -509,7 +509,7 @@ A veces también oirás que estos servicios están organizados en un gran objeto
 Busca tu terminal y ejecuta:
 
 ```shell
-bin/console debug:container
+symfony console debug:container
 ```
 
 ### Los bundles proporcionan servicios
